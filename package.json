@@ -8,6 +8,7 @@
     "hexo",
     "jscs-preset"
   ],
+  "main": "jscs.json",
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "license": "MIT"
 }
