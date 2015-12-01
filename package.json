@@ -1,0 +1,13 @@
+{
+  "name": "jscs-preset-hexo",
+  "version": "1.0.0",
+  "description": "JSCS preset for Hexo projects",
+  "repository": "hexojs/jscs-preset-hexo",
+  "homepage": "http://hexo.io/",
+  "keywords": [
+    "hexo",
+    "jscs-preset"
+  ],
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "license": "MIT"
+}
