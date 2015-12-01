@@ -1,6 +1,6 @@
 {
   "name": "jscs-preset-hexo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSCS preset for Hexo projects",
   "repository": "hexojs/jscs-preset-hexo",
   "homepage": "http://hexo.io/",
